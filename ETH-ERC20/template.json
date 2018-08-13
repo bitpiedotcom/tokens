@@ -1,0 +1,7 @@
+{
+	"coin_code": "{{ token.coin_code }}",
+	"coin_name": "{{ token.coin_name }}",
+	"unit_decimal": {{ token.unit_decimal }},
+	"contract_address": "{{ token.contract_address }}",
+	"token_logo": "{{ images/token.token_logo }}"
+}
