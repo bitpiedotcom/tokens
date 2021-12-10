@@ -1,0 +1,7 @@
+{
+	"coin_code": "LDYCoin",
+	"coin_name": "LDYCoin Network",
+	"unit_decimal": 18,
+	"contract_address": "0x64ff637fb478863b7468bc97d30a5bf3a428a1fd",
+	"token_logo": "{{ images/0x64ff637fb478863b7468bc97d30a5bf3a428a1fd.png }}"
+}
