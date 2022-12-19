@@ -3,5 +3,5 @@
 	"coin_name": "PREMA",
 	"unit_decimal": 18,
 	"contract_address": "0xe4dae00bc1c46ea2F44ae71B1BEb8b171C15d812",
-	"token_logo": "{{ images/token.token_logo }}"
+	"token_logo": "images/0xe4dae00bc1c46ea2F44ae71B1BEb8b171C15d812.png"
 }
