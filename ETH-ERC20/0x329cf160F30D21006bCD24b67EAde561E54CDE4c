@@ -1,0 +1,8 @@
+{
+	"coin_code": "CARE",
+	"coin_name": "CareCoin",
+	"unit_decimal": 18,
+	"contract_address": "0x329cf160F30D21006bCD24b67EAde561E54CDE4c",
+	"token_logo": "{{ images/token.token_logo }}"
+	"token_logo": "images/0x329cf160F30D21006bCD24b67EAde561E54CDE4c.png"
+}
